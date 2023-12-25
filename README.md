@@ -33,6 +33,8 @@ Simon-Maestro is a classic memory and reflex-testing game designed to challenge 
 
 ## Preview
 
+Visit https://myselfshivams.github.io/Simon-Maestro/ to play live!
+
 
 
 ## Contribute
