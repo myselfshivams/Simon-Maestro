@@ -1,10 +1,10 @@
-# MemoryMaestro
+# Simon-Maestro
 
-🔵🔴 Welcome to MemoryMaestro – Challenge Your Memory and Reflexes! 🔴🔵
+🔵🔴 Welcome to Simon-Maestro – Challenge Your Memory and Reflexes! 🔴🔵
 
 ## Overview
 
-Simon-Maestro is a classic memory and reflex-testing game designed to challenge your ability to remember and follow patterns. Watch, listen, and repeat the sequence to advance and achieve high scores. Whether you're a casual player or a memory master, MemoryMaestro promises hours of fun and mental exercise.
+Simon-Maestro is a classic memory and reflex-testing game designed to challenge your ability to remember and follow patterns. Watch, listen, and repeat the sequence to advance and achieve high scores. Whether you're a casual player or a memory master, Simon-Maestro promises hours of fun and mental exercise.
 
 ## Features
 
@@ -26,7 +26,7 @@ Simon-Maestro is a classic memory and reflex-testing game designed to challenge 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/memorymaestro.git
+   git clone https://github.com/myselfshivams/Simon-Maestro.git
    ```
 
 2. Open index.html in your browser.
